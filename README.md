@@ -16,4 +16,4 @@ package used:
 - pull_to_refresh
 - screen_util
 
-![screenshot](https://drive.google.com/uc?export=view&id=1mY_FlSJNZCLibUwrIIvXypjrjcdiGqTq=250x250"Screenshot")
+![screenshot](https://drive.google.com/uc?export=view&id=1WKy79bM5FpqAl7gGmrLjla3AKGR1FxVm"Screenshot")
