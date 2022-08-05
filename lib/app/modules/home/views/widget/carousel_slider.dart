@@ -1,5 +1,5 @@
 import 'package:carousel_slider/carousel_slider.dart';
-import 'package:debitapp/app/modules/home/views/card.dart';
+import 'package:debitapp/app/modules/home/views/widget/card.dart';
 import 'package:debitapp/app/modules/home/views/widget/colors.dart';
 import 'package:flutter/material.dart';
 

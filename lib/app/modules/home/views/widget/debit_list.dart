@@ -19,7 +19,7 @@ class DebitListWidget extends StatelessWidget {
           borderRadius: BorderRadius.only(
               topLeft: Radius.circular(26.r), topRight: Radius.circular(26.r))),
       child: Padding(
-        padding: const EdgeInsets.only(left: 16, right: 16, top: 16),
+        padding: EdgeInsets.only(left: 16.w, right: 16.w, top: 68.h),
         child: Column(
           children: [
             Row(
