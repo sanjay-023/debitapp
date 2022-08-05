@@ -21,8 +21,9 @@ class HomeView extends GetView<HomeController> {
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
                   children: [
                     CircleAvatar(
-                      radius: 14.r,
-                    ),
+                        radius: 14.r,
+                        backgroundImage:
+                            AssetImage("asset/images/avatar.jpeg")),
                     Text(
                       "Home",
                       style: TextStyle(

@@ -1,4 +1,3 @@
-import 'package:debitapp/app/data/model/service/api_service.dart';
 import 'package:get/get.dart';
 
 class HomeController extends GetxController {
@@ -12,4 +11,7 @@ class HomeController extends GetxController {
   // @override
   // void onClose() {}
   // void increment() => count.value++;
+  refreshfun() {
+    update();
+  }
 }
