@@ -16,4 +16,4 @@ package used:
 - pull_to_refresh
 - screen_util
 
-![screenshot]([http://full/path/to/img.jpg](https://drive.google.com/file/d/1mY_FlSJNZCLibUwrIIvXypjrjcdiGqTq/view?usp=sharing) "wallet app ui")
+![screenshot]([http://full/path/to/img.jpg](https://drive.google.com/file/d/1mY_FlSJNZCLibUwrIIvXypjrjcdiGqTq/view?usp=sharing "wallet app ui")
